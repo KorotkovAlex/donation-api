@@ -1,0 +1,12 @@
+# Logs
+npm-debug.log*
+
+# Dependency directories
+node_modules
+package-lock.json
+
+# Configs IDEs and editors
+.vscode
+
+# Public path
+dist
